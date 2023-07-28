@@ -1,0 +1,122 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Alquiler vehiculo</title>
+
+    <!-- Google Font: Source Sans Pro -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
+    <!-- Font Awesome -->
+    <link href="Estilos/all.min.css" rel="stylesheet" />
+    <!-- Theme style -->
+    <link href="Estilos/adminlte.min.css" rel="stylesheet" />
+    <link href="Estilos/dataTables.bootstrap4.min.css" rel="stylesheet" />
+</head>
+<body class="hold-transition sidebar-mini">
+    <section class="content">
+        <div class="container-fluid">
+            <div class="row">
+                <!-- left column -->
+                <div class="col-md-12">
+                    <!-- general form elements -->
+                    <div class="card card-primary">
+                        <div class="card-header">
+                            <h3 class="card-title">Alquiler vehiculo</h3>
+                        </div>
+                        <!-- /.card-header -->
+                        <!-- form start -->
+                        <form id="frmAlquiler">
+                            <div class="card-body">
+                                <div class="row">
+                                    <div class="col-md-3">
+                                        <div class="form-group">
+                                            <label for="txtCodigoAlquiler">CODIGO DE ALQUILER</label>
+                                            <input type="number" class="form-control" id="txtCodigoAlquiler" placeholder="Código de alquiler">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <div class="form-group">
+                                            <label for="txtFechaAlquiler">FECHA DEL ALQUILER (dd/mm/aa)</label>
+                                            <input type="text" class="form-control" id="txtFechaAlquiler" placeholder="Fecha del alquiler" value="2018-07-22">
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-3">
+                                        <div class="form-group">
+                                            <label for="cboTipo">Vehículo</label>
+                                            <select id="cboTipo" class="form-control select2" style="width: 100%;">
+                                                <option value="0">Seleccione un vehículo</option>
+                                            </select>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-3">
+                                        <div class="form-group">
+                                            <label for="txtDocumentoCliente">DOCUMENTO DEL CLIENTE</label>
+                                            <input type="number" class="form-control" id="txtDocumentoCliente" placeholder="Documento del cliente">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <div class="form-group">
+                                            <label for="txtNombreCliente">NOMBRE DEL CLIENTE</label>
+                                            <input type="text" class="form-control" id="txtNombreCliente" placeholder="Nombre del cliente">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <div class="form-group">
+                                            <label for="txtDiasAlquiler">Dias de alquiler</label>
+                                            <input type="number" class="form-control" id="txtDiasAlquiler" placeholder="Dias de alquiler">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-3">
+                                        <label for="btnRegistrar"></label>
+                                        <button type="button" id="btnRegistrar" style="background-color:forestgreen" class="btn-block btn-lg btn-primary">REGISTRAR ALQUILER</button>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <label for="btnConsultar"></label>
+                                        <button type="button" id="btnConsultar" style="background-color:orange" class="btn-block btn-lg btn-primary">CONSULTAR ALQUILER</button>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <label for="btnActualizar"></label>
+                                        <button type="button" id="btnActualizar" style="background-color:aqua" class="btn-block btn-lg btn-primary">ACTUALIZAR ALQUILER</button>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <label for="btnEliminar"></label>
+                                        <button type="button" id="btnEliminar" style="background-color:red" class="btn-block btn-lg btn-primary">ELIMINAR ALQUILER</button>
+                                    </div>
+                                </div>
+
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <table id="tblAlquiler" class="table table-bordered table-striped"></table>
+                                    </div>
+                                </div>
+                                <br>
+                                <div class="col-md-3">
+                                    <input type="button" onclick="location.href='MenuPrincipal.html';" value="REGRESAR" />
+                                </div>
+                            </div>
+                            <!-- /.card-body -->
+                            <div class="card-footer">
+                                <div id="dvMensaje" class=""></div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <script src="../Scripts/jquery.min.js"></script>
+    <script src="../Scripts/bootstrap.bundle.min.js"></script>
+    <script src="../Scripts/jquery.dataTables.min.js"></script>
+    <script src="../Scripts/dataTables.bootstrap4.min.js"></script>
+    <script src="Scripts/Comunes/Grids.js"></script>
+    <script src="Scripts/Comunes/Combos.js"></script>
+    <script src="Scripts/Alquiler.js"></script>
+    <!-- /.card -->
+</body>
+</html>

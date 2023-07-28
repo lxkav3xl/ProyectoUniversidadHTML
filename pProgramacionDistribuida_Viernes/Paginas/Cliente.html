@@ -1,0 +1,112 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Registro cliente</title>
+    <!-- Google Font: Source Sans Pro -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
+    <!-- Font Awesome -->
+    <link href="Estilos/all.min.css" rel="stylesheet" />
+    <!-- Theme style -->
+    <link href="Estilos/adminlte.min.css" rel="stylesheet" />
+    <link href="Estilos/dataTables.bootstrap4.min.css" rel="stylesheet" />
+</head>
+<body class="hold-transition sidebar-mini">
+    <section class="content">
+        <div class="container-fluid">
+            <div class="row">
+                <!-- left column -->
+                <div class="col-md-12">
+                    <!-- general form elements -->
+                    <div class="card card-primary">
+                        <div class="card-header">
+                            <h3 class="card-title">Registro cliente</h3>
+                        </div>
+                        <!-- /.card-header -->
+                        <!-- form start -->
+                        <form id="frmRegistroCliente">
+                            <div class="card-body">
+                                <div class="row">
+                                    <div class="col-md-2">
+                                        <div class="form-group">
+                                            <label>Tipo Documento</label>
+                                            <select id="cboTipoDoc" class="form-control select2" style="width: 100%;">
+                                                <option selected="selected" value="Cédula de ciudadanía">Cédula de ciudadanía</option>
+                                                <option value="NIT">NIT</option>
+                                                <option value="Tarjeta de identidad">Tarjeta de identidad</option>
+                                                <option value="Cédula de extranjería">Cédula de extranjería</option>
+                                            </select>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-2">
+
+                                        <div class="form-group">
+                                            <label for="txtDocumento">Documento</label>
+                                            <input type="text" class="form-control" id="txtDocumento" placeholder="Ingrese Documento">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <div class="form-group">
+                                            <label for="txtNombre">Nombre</label>
+                                            <input type="text" class="form-control" id="txtNombre" placeholder="Nombre del cliente">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-2">
+                                        <div class="form-group">
+                                            <label for="txtTelefono">Teléfono</label>
+                                            <input type="text" class="form-control" id="txtTelefono" placeholder="Teléfono del cliente">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <div class="form-group">
+                                            <label for="txtEmail">Email</label>
+                                            <input type="text" class="form-control" id="txtEmail" placeholder="Email del cliente">
+                                        </div>
+                                    </div>
+
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-3">
+                                        <button type="button" id="btnRegistrar" style="background-color:forestgreen" class="btn-block btn-lg btn-primary">REGISTRAR CLIENTE</button>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <button type="button" id="btnConsultar" style="background-color:orange" class="btn-block btn-lg btn-primary">CONSULTAR CLIENTE</button>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <button type="button" id="btnActualizar" style="background-color:aqua" class="btn-block btn-lg btn-primary">ACTUALIZAR CLIENTE</button>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <button type="button" id="btnEliminar" style="background-color:red" class="btn-block btn-lg btn-primary">ELIMINAR CLIENTE</button>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <table id="tblCliente" class="table table-bordered"></table>
+                                    </div>
+                                </div>
+                                <br>
+                                <div class="col-md-3">
+                                    <input type="button" onclick="location.href='MenuPrincipal.html';" value="REGRESAR" />
+                                </div>
+                            </div>
+                            <!-- /.card-body -->
+                            <div class="card-footer">
+                                <div id="dvMensaje" class=""></div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <script src="../Scripts/jquery.min.js"></script>
+    <script src="../Scripts/bootstrap.bundle.min.js"></script>
+    <script src="../Scripts/jquery.dataTables.min.js"></script>
+    <script src="../Scripts/dataTables.bootstrap4.min.js"></script>
+    <script src="Scripts/Comunes/Grids.js"></script>
+    <script src="Scripts/Cliente.js"></script>
+
+    <!-- /.card -->
+</body>
+</html>

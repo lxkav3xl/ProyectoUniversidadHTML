@@ -1,0 +1,109 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Administracion de Vehiculos</title>
+
+    <!-- Google Font: Source Sans Pro -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
+    <!-- Font Awesome -->
+    <link href="Estilos/all.min.css" rel="stylesheet" />
+    <!-- Theme style -->
+    <link href="Estilos/adminlte.min.css" rel="stylesheet" />
+    <link href="Estilos/dataTables.bootstrap4.min.css" rel="stylesheet" />
+</head>
+<body class="hold-transition sidebar-mini">
+    <section class="content">
+        <div class="container-fluid">
+            <div class="row">
+                <!-- left column -->
+                <div class="col-md-12">
+                    <!-- general form elements -->
+                    <div class="card card-primary">
+                        <div class="card-header">
+                            <h3 class="card-title">Administracion de Vehiculos</h3>
+                        </div>
+                        <!-- /.card-header -->
+                        <!-- form start -->
+                        <form id="frmAdministracionVehiculo">
+                            <div class="card-body">
+                                <div class="row">
+                                    <div class="col-md-3">
+                                        <div class="form-group">
+                                            <label for="txtIdVehiculo">ID DEL VEHICULO</label>
+                                            <input type="number" class="form-control" id="txtIdVehiculo" placeholder="Id del Vehiculo">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <div class="form-group">
+                                            <label for="txtMarca">MARCA DEL VEHICULO</label>
+                                            <input type="text" class="form-control" id="txtMarca" placeholder="Marca" value="">
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-3">
+                                        <div class="form-group">
+                                            <label for="txtModelo">MODELO DEL VEHICULO</label>
+                                            <input type="number" class="form-control" id="txtModelo" placeholder="Modelo" value="">
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-3">
+                                        <div class="form-group">
+                                            <label for="txtPlaca">PLACA DEL VEHICULO</label>
+                                            <input type="text" class="form-control" id="txtPlaca" placeholder="Placa" value="">
+                                        </div>
+                                    </div>
+
+                                </div>
+
+                                <div class="row">
+                                    <div class="col-md-3">
+                                        <label for="btnRegistrar"></label>
+                                        <button type="button" id="btnRegistrar" style="background-color:forestgreen" class="btn-block btn-lg btn-primary">REGISTRAR VEHICULO</button>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <label for="btnConsultar"></label>
+                                        <button type="button" id="btnConsultar" style="background-color:orange" class="btn-block btn-lg btn-primary">CONSULTAR VEHICULO</button>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <label for="btnActualizar"></label>
+                                        <button type="button" id="btnActualizar" style="background-color:aqua" class="btn-block btn-lg btn-primary">ACTUALIZAR VEHICULO</button>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <label for="btnEliminar"></label>
+                                        <button type="button" id="btnEliminar" style="background-color:red" class="btn-block btn-lg btn-primary">ELIMINAR VEHICULO</button>
+                                    </div>
+                                </div>
+
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <table id="tblTipoVehiculo" class="table table-bordered"></table>
+                                    </div>
+                                </div>
+                                <br>
+                                <div class="col-md-3">
+                                    <input type="button" onclick="location.href='MenuPrincipal.html';" value="REGRESAR" />
+                                </div>
+                            </div>
+                            <!-- /.card-body -->
+                            <div class="card-footer">
+                                <div id="dvMensaje" class=""></div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <script src="../Scripts/jquery.min.js"></script>
+    <script src="../Scripts/bootstrap.bundle.min.js"></script>
+    <script src="../Scripts/jquery.dataTables.min.js"></script>
+    <script src="../Scripts/dataTables.bootstrap4.min.js"></script>
+    <script src="Scripts/Comunes/Grids.js"></script>
+    <script src="Scripts/Comunes/Combos.js"></script>
+    <script src="Scripts/AdministracionVehiculo.js"></script>
+    <!-- /.card -->
+</body>
+</html>

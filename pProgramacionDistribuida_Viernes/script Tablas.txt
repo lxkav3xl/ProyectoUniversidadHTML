@@ -1,0 +1,16 @@
+﻿CREATE TABLE [dbo].[tblCliente]
+(
+	[Documento] VARCHAR(20) NOT NULL PRIMARY KEY, 
+    [Nombre] VARCHAR(50) NOT NULL, 
+    [PrimerApellido] VARCHAR(50) NOT NULL, 
+    [SegundoApellido] VARCHAR(50) NULL, 
+    [FechaNacimiento] DATE NOT NULL, 
+    [Direccion] VARCHAR(200) NOT NULL, 
+    [Telefono] VARCHAR(20) NOT NULL
+)
+create table [dbo].[tblUsuario]
+(
+	[Documento] VARCHAR(20) NOT NULL PRIMARY KEY, 
+    [Usuario] VARCHAR(50) NOT NULL, 
+    [Clave] VARCHAR(200) NOT NULL, 
+)

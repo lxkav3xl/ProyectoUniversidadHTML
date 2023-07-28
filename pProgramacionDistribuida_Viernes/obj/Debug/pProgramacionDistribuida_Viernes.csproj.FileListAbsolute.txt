@@ -1,0 +1,946 @@
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\pProgramacionDistribuida_Viernes.dll.config
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\pProgramacionDistribuida_Viernes.dll
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\pProgramacionDistribuida_Viernes.pdb
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\roslyn\csc.exe
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\roslyn\csc.exe.config
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\roslyn\csc.rsp
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\roslyn\csi.exe
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\roslyn\csi.exe.config
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\roslyn\csi.rsp
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\roslyn\System.AppContext.dll
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\roslyn\System.Collections.Immutable.dll
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\roslyn\System.Console.dll
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\roslyn\System.Globalization.Calendars.dll
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\roslyn\System.IO.Compression.dll
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\roslyn\System.IO.FileSystem.dll
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\roslyn\System.Net.Http.dll
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\roslyn\System.Net.Sockets.dll
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\roslyn\System.Reflection.Metadata.dll
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\roslyn\System.ValueTuple.dll
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\roslyn\System.Xml.XPath.dll
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\roslyn\vbc.exe
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\roslyn\vbc.exe.config
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\roslyn\vbc.rsp
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\roslyn\VBCSCompiler.exe
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\roslyn\VBCSCompiler.exe.config
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\Antlr3.Runtime.dll
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\AspNet.ScriptManager.jQuery.dll
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\Microsoft.Web.Infrastructure.dll
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\Newtonsoft.Json.dll
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\System.Web.Optimization.dll
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\WebGrease.dll
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\System.Web.Optimization.xml
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\Newtonsoft.Json.xml
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\Antlr3.Runtime.pdb
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\obj\Debug\pProgramacionDistribuida_Viernes.csproj.AssemblyReference.cache
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\obj\Debug\pProgramacionDistribuida_Viernes.csproj.CoreCompileInputs.cache
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\obj\Debug\pProgramacionDistribuida_Viernes.csproj.CopyComplete
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\obj\Debug\pProgramacionDistribuida_Viernes.dll
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\obj\Debug\pProgramacionDistribuida_Viernes.pdb
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\libComunes.dll
+D:\Trabajos\ITM\2022-2\pProgramacionDistribuida_Viernes\bin\libComunes.pdb
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\pProgramacionDistribuida_Viernes.dll.config
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\pProgramacionDistribuida_Viernes.dll
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\pProgramacionDistribuida_Viernes.pdb
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\roslyn\csc.exe
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\roslyn\csc.exe.config
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\roslyn\csc.rsp
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\roslyn\csi.exe
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\roslyn\csi.exe.config
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\roslyn\csi.rsp
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\roslyn\System.AppContext.dll
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\roslyn\System.Console.dll
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\roslyn\System.IO.Compression.dll
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\roslyn\System.Net.Http.dll
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\roslyn\System.Net.Sockets.dll
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\roslyn\System.ValueTuple.dll
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\roslyn\System.Xml.XPath.dll
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\roslyn\vbc.exe
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\roslyn\vbc.exe.config
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\roslyn\vbc.rsp
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\roslyn\VBCSCompiler.exe
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\Antlr3.Runtime.dll
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\Newtonsoft.Json.dll
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\System.Web.Optimization.dll
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\WebGrease.dll
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\libComunes.pdb
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\System.Web.Optimization.xml
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\Newtonsoft.Json.xml
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\Antlr3.Runtime.pdb
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\obj\Debug\pProgramacionDistribuida_Viernes.csproj.AssemblyReference.cache
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\obj\Debug\pProgramacionDistribuida_Viernes.csproj.CoreCompileInputs.cache
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\obj\Debug\pProgramacionDistribuida_Viernes.csproj.CopyComplete
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\obj\Debug\pProgramacionDistribuida_Viernes.dll
+C:\Users\docenteitm\Documents\pProgramacionDistribuida_Viernes\obj\Debug\pProgramacionDistribuida_Viernes.pdb
+C:\ITM\pProgramacionDistribuida_Viernes\bin\pProgramacionDistribuida_Viernes.dll.config
+C:\ITM\pProgramacionDistribuida_Viernes\bin\pProgramacionDistribuida_Viernes.dll
+C:\ITM\pProgramacionDistribuida_Viernes\bin\pProgramacionDistribuida_Viernes.pdb
+C:\ITM\pProgramacionDistribuida_Viernes\bin\roslyn\csc.exe
+C:\ITM\pProgramacionDistribuida_Viernes\bin\roslyn\csc.exe.config
+C:\ITM\pProgramacionDistribuida_Viernes\bin\roslyn\csc.rsp
+C:\ITM\pProgramacionDistribuida_Viernes\bin\roslyn\csi.exe
+C:\ITM\pProgramacionDistribuida_Viernes\bin\roslyn\csi.exe.config
+C:\ITM\pProgramacionDistribuida_Viernes\bin\roslyn\csi.rsp
+C:\ITM\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\ITM\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\ITM\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\ITM\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\ITM\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\ITM\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\ITM\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\ITM\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\ITM\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\ITM\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.Managed.Core.targets
+C:\ITM\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\ITM\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\ITM\pProgramacionDistribuida_Viernes\bin\roslyn\System.AppContext.dll
+C:\ITM\pProgramacionDistribuida_Viernes\bin\roslyn\System.Collections.Immutable.dll
+C:\ITM\pProgramacionDistribuida_Viernes\bin\roslyn\System.Console.dll
+C:\ITM\pProgramacionDistribuida_Viernes\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\ITM\pProgramacionDistribuida_Viernes\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\ITM\pProgramacionDistribuida_Viernes\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\ITM\pProgramacionDistribuida_Viernes\bin\roslyn\System.Globalization.Calendars.dll
+C:\ITM\pProgramacionDistribuida_Viernes\bin\roslyn\System.IO.Compression.dll
+C:\ITM\pProgramacionDistribuida_Viernes\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\ITM\pProgramacionDistribuida_Viernes\bin\roslyn\System.IO.FileSystem.dll
+C:\ITM\pProgramacionDistribuida_Viernes\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\ITM\pProgramacionDistribuida_Viernes\bin\roslyn\System.Net.Http.dll
+C:\ITM\pProgramacionDistribuida_Viernes\bin\roslyn\System.Net.Sockets.dll
+C:\ITM\pProgramacionDistribuida_Viernes\bin\roslyn\System.Reflection.Metadata.dll
+C:\ITM\pProgramacionDistribuida_Viernes\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\ITM\pProgramacionDistribuida_Viernes\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\ITM\pProgramacionDistribuida_Viernes\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\ITM\pProgramacionDistribuida_Viernes\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\ITM\pProgramacionDistribuida_Viernes\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\ITM\pProgramacionDistribuida_Viernes\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\ITM\pProgramacionDistribuida_Viernes\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\ITM\pProgramacionDistribuida_Viernes\bin\roslyn\System.ValueTuple.dll
+C:\ITM\pProgramacionDistribuida_Viernes\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\ITM\pProgramacionDistribuida_Viernes\bin\roslyn\System.Xml.XmlDocument.dll
+C:\ITM\pProgramacionDistribuida_Viernes\bin\roslyn\System.Xml.XPath.dll
+C:\ITM\pProgramacionDistribuida_Viernes\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\ITM\pProgramacionDistribuida_Viernes\bin\roslyn\vbc.exe
+C:\ITM\pProgramacionDistribuida_Viernes\bin\roslyn\vbc.exe.config
+C:\ITM\pProgramacionDistribuida_Viernes\bin\roslyn\vbc.rsp
+C:\ITM\pProgramacionDistribuida_Viernes\bin\roslyn\VBCSCompiler.exe
+C:\ITM\pProgramacionDistribuida_Viernes\bin\roslyn\VBCSCompiler.exe.config
+C:\ITM\pProgramacionDistribuida_Viernes\bin\Antlr3.Runtime.dll
+C:\ITM\pProgramacionDistribuida_Viernes\bin\AspNet.ScriptManager.bootstrap.dll
+C:\ITM\pProgramacionDistribuida_Viernes\bin\AspNet.ScriptManager.jQuery.dll
+C:\ITM\pProgramacionDistribuida_Viernes\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\ITM\pProgramacionDistribuida_Viernes\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\ITM\pProgramacionDistribuida_Viernes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\ITM\pProgramacionDistribuida_Viernes\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\ITM\pProgramacionDistribuida_Viernes\bin\Microsoft.ScriptManager.WebForms.dll
+C:\ITM\pProgramacionDistribuida_Viernes\bin\Microsoft.Web.Infrastructure.dll
+C:\ITM\pProgramacionDistribuida_Viernes\bin\Newtonsoft.Json.dll
+C:\ITM\pProgramacionDistribuida_Viernes\bin\System.Web.Optimization.dll
+C:\ITM\pProgramacionDistribuida_Viernes\bin\WebGrease.dll
+C:\ITM\pProgramacionDistribuida_Viernes\bin\libComunes.pdb
+C:\ITM\pProgramacionDistribuida_Viernes\bin\System.Web.Optimization.xml
+C:\ITM\pProgramacionDistribuida_Viernes\bin\Newtonsoft.Json.xml
+C:\ITM\pProgramacionDistribuida_Viernes\bin\Antlr3.Runtime.pdb
+C:\ITM\pProgramacionDistribuida_Viernes\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\ITM\pProgramacionDistribuida_Viernes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\ITM\pProgramacionDistribuida_Viernes\obj\Debug\pProgramacionDistribuida_Viernes.csproj.AssemblyReference.cache
+C:\ITM\pProgramacionDistribuida_Viernes\obj\Debug\pProgramacionDistribuida_Viernes.csproj.CoreCompileInputs.cache
+C:\ITM\pProgramacionDistribuida_Viernes\obj\Debug\pProgramacionDistribuida_Viernes.csproj.CopyComplete
+C:\ITM\pProgramacionDistribuida_Viernes\obj\Debug\pProgramacionDistribuida_Viernes.dll
+C:\ITM\pProgramacionDistribuida_Viernes\obj\Debug\pProgramacionDistribuida_Viernes.pdb
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\pProgramacionDistribuida_Viernes.dll.config
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\pProgramacionDistribuida_Viernes.dll
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\pProgramacionDistribuida_Viernes.pdb
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\roslyn\csc.exe
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\roslyn\csc.exe.config
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\roslyn\csc.rsp
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\roslyn\csi.exe
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\roslyn\csi.exe.config
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\roslyn\csi.rsp
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\roslyn\System.AppContext.dll
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\roslyn\System.Console.dll
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\roslyn\System.IO.Compression.dll
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\roslyn\System.Net.Http.dll
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\roslyn\System.ValueTuple.dll
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\roslyn\vbc.exe
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\roslyn\vbc.exe.config
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\roslyn\vbc.rsp
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\roslyn\VBCSCompiler.exe
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\Antlr3.Runtime.dll
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\Newtonsoft.Json.dll
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\System.Web.Optimization.dll
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\WebGrease.dll
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\libComunes.pdb
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\System.Web.Optimization.xml
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\Newtonsoft.Json.xml
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\Antlr3.Runtime.pdb
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\obj\Debug\pProgramacionDistribuida_Viernes.csproj.AssemblyReference.cache
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\obj\Debug\pProgramacionDistribuida_Viernes.csproj.CoreCompileInputs.cache
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\obj\Debug\pProgramacionDistribuida_Viernes.csproj.CopyComplete
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\obj\Debug\pProgramacionDistribuida_Viernes.dll
+C:\Users\Cristian Piedrahita\Downloads\pProgramacionDistribuida_Viernes\obj\Debug\pProgramacionDistribuida_Viernes.pdb
+C:\PD68\pProgramacionDistribuida_Viernes\bin\pProgramacionDistribuida_Viernes.dll.config
+C:\PD68\pProgramacionDistribuida_Viernes\bin\pProgramacionDistribuida_Viernes.dll
+C:\PD68\pProgramacionDistribuida_Viernes\bin\pProgramacionDistribuida_Viernes.pdb
+C:\PD68\pProgramacionDistribuida_Viernes\bin\roslyn\csc.exe
+C:\PD68\pProgramacionDistribuida_Viernes\bin\roslyn\csc.exe.config
+C:\PD68\pProgramacionDistribuida_Viernes\bin\roslyn\csc.rsp
+C:\PD68\pProgramacionDistribuida_Viernes\bin\roslyn\csi.exe
+C:\PD68\pProgramacionDistribuida_Viernes\bin\roslyn\csi.exe.config
+C:\PD68\pProgramacionDistribuida_Viernes\bin\roslyn\csi.rsp
+C:\PD68\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\PD68\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\PD68\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\PD68\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\PD68\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\PD68\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\PD68\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\PD68\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\PD68\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\PD68\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.Managed.Core.targets
+C:\PD68\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\PD68\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\PD68\pProgramacionDistribuida_Viernes\bin\roslyn\System.AppContext.dll
+C:\PD68\pProgramacionDistribuida_Viernes\bin\roslyn\System.Collections.Immutable.dll
+C:\PD68\pProgramacionDistribuida_Viernes\bin\roslyn\System.Console.dll
+C:\PD68\pProgramacionDistribuida_Viernes\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\PD68\pProgramacionDistribuida_Viernes\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\PD68\pProgramacionDistribuida_Viernes\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\PD68\pProgramacionDistribuida_Viernes\bin\roslyn\System.Globalization.Calendars.dll
+C:\PD68\pProgramacionDistribuida_Viernes\bin\roslyn\System.IO.Compression.dll
+C:\PD68\pProgramacionDistribuida_Viernes\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\PD68\pProgramacionDistribuida_Viernes\bin\roslyn\System.IO.FileSystem.dll
+C:\PD68\pProgramacionDistribuida_Viernes\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\PD68\pProgramacionDistribuida_Viernes\bin\roslyn\System.Net.Http.dll
+C:\PD68\pProgramacionDistribuida_Viernes\bin\roslyn\System.Net.Sockets.dll
+C:\PD68\pProgramacionDistribuida_Viernes\bin\roslyn\System.Reflection.Metadata.dll
+C:\PD68\pProgramacionDistribuida_Viernes\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\PD68\pProgramacionDistribuida_Viernes\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\PD68\pProgramacionDistribuida_Viernes\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\PD68\pProgramacionDistribuida_Viernes\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\PD68\pProgramacionDistribuida_Viernes\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\PD68\pProgramacionDistribuida_Viernes\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\PD68\pProgramacionDistribuida_Viernes\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\PD68\pProgramacionDistribuida_Viernes\bin\roslyn\System.ValueTuple.dll
+C:\PD68\pProgramacionDistribuida_Viernes\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\PD68\pProgramacionDistribuida_Viernes\bin\roslyn\System.Xml.XmlDocument.dll
+C:\PD68\pProgramacionDistribuida_Viernes\bin\roslyn\System.Xml.XPath.dll
+C:\PD68\pProgramacionDistribuida_Viernes\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\PD68\pProgramacionDistribuida_Viernes\bin\roslyn\vbc.exe
+C:\PD68\pProgramacionDistribuida_Viernes\bin\roslyn\vbc.exe.config
+C:\PD68\pProgramacionDistribuida_Viernes\bin\roslyn\vbc.rsp
+C:\PD68\pProgramacionDistribuida_Viernes\bin\roslyn\VBCSCompiler.exe
+C:\PD68\pProgramacionDistribuida_Viernes\bin\roslyn\VBCSCompiler.exe.config
+C:\PD68\pProgramacionDistribuida_Viernes\bin\Antlr3.Runtime.dll
+C:\PD68\pProgramacionDistribuida_Viernes\bin\AspNet.ScriptManager.bootstrap.dll
+C:\PD68\pProgramacionDistribuida_Viernes\bin\AspNet.ScriptManager.jQuery.dll
+C:\PD68\pProgramacionDistribuida_Viernes\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\PD68\pProgramacionDistribuida_Viernes\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\PD68\pProgramacionDistribuida_Viernes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\PD68\pProgramacionDistribuida_Viernes\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\PD68\pProgramacionDistribuida_Viernes\bin\Microsoft.ScriptManager.WebForms.dll
+C:\PD68\pProgramacionDistribuida_Viernes\bin\Microsoft.Web.Infrastructure.dll
+C:\PD68\pProgramacionDistribuida_Viernes\bin\Newtonsoft.Json.dll
+C:\PD68\pProgramacionDistribuida_Viernes\bin\System.Web.Optimization.dll
+C:\PD68\pProgramacionDistribuida_Viernes\bin\WebGrease.dll
+C:\PD68\pProgramacionDistribuida_Viernes\bin\libComunes.pdb
+C:\PD68\pProgramacionDistribuida_Viernes\bin\System.Web.Optimization.xml
+C:\PD68\pProgramacionDistribuida_Viernes\bin\Newtonsoft.Json.xml
+C:\PD68\pProgramacionDistribuida_Viernes\bin\Antlr3.Runtime.pdb
+C:\PD68\pProgramacionDistribuida_Viernes\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\PD68\pProgramacionDistribuida_Viernes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\PD68\pProgramacionDistribuida_Viernes\obj\Debug\pProgramacionDistribuida_Viernes.csproj.AssemblyReference.cache
+C:\PD68\pProgramacionDistribuida_Viernes\obj\Debug\pProgramacionDistribuida_Viernes.csproj.CoreCompileInputs.cache
+C:\PD68\pProgramacionDistribuida_Viernes\obj\Debug\pProgramacionDistribuida_Viernes.csproj.CopyComplete
+C:\PD68\pProgramacionDistribuida_Viernes\obj\Debug\pProgramacionDistribuida_Viernes.dll
+C:\PD68\pProgramacionDistribuida_Viernes\obj\Debug\pProgramacionDistribuida_Viernes.pdb
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\pProgramacionDistribuida_Viernes.dll.config
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\pProgramacionDistribuida_Viernes.dll
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\pProgramacionDistribuida_Viernes.pdb
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\csc.exe
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\csc.exe.config
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\csc.rsp
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\csi.exe
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\csi.exe.config
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\csi.rsp
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.Managed.Core.targets
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\System.AppContext.dll
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\System.Collections.Immutable.dll
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\System.Console.dll
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\System.Globalization.Calendars.dll
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\System.IO.Compression.dll
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\System.IO.FileSystem.dll
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\System.Net.Http.dll
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\System.Net.Sockets.dll
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\System.Reflection.Metadata.dll
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\System.ValueTuple.dll
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\System.Xml.XmlDocument.dll
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\System.Xml.XPath.dll
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\vbc.exe
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\vbc.exe.config
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\vbc.rsp
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\VBCSCompiler.exe
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\VBCSCompiler.exe.config
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\Antlr3.Runtime.dll
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\AspNet.ScriptManager.bootstrap.dll
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\AspNet.ScriptManager.jQuery.dll
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\Microsoft.ScriptManager.WebForms.dll
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\Microsoft.Web.Infrastructure.dll
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\Newtonsoft.Json.dll
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\System.Web.Optimization.dll
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\WebGrease.dll
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\libComunes.pdb
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\System.Web.Optimization.xml
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\Newtonsoft.Json.xml
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\Antlr3.Runtime.pdb
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\obj\Debug\pProgramacionDistribuida_Viernes.csproj.AssemblyReference.cache
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\obj\Debug\pProgramacionDistribuida_Viernes.csproj.CoreCompileInputs.cache
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\obj\Debug\pProgramacionDistribuida_Viernes.csproj.CopyComplete
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\obj\Debug\pProgramacionDistribuida_Viernes.dll
+C:\PD68\Proyecto Farmacia\pProgramacionDistribuida_Viernes\obj\Debug\pProgramacionDistribuida_Viernes.pdb
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\pProgramacionDistribuida_Viernes.dll.config
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\pProgramacionDistribuida_Viernes.dll
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\pProgramacionDistribuida_Viernes.pdb
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\csc.exe
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\csc.exe.config
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\csc.rsp
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\csi.exe
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\csi.exe.config
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\csi.rsp
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CodeAnalysis.dll
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CSharp.Core.targets
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.Managed.Core.targets
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.Win32.Primitives.dll
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\System.AppContext.dll
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\System.Collections.Immutable.dll
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\System.Console.dll
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\System.Diagnostics.StackTrace.dll
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\System.Globalization.Calendars.dll
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\System.IO.Compression.dll
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\System.IO.Compression.ZipFile.dll
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\System.IO.FileSystem.dll
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\System.IO.FileSystem.Primitives.dll
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\System.Net.Http.dll
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\System.Net.Sockets.dll
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\System.Reflection.Metadata.dll
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\System.Security.Cryptography.Encoding.dll
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\System.Security.Cryptography.Primitives.dll
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\System.Text.Encoding.CodePages.dll
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\System.Threading.Tasks.Extensions.dll
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\System.ValueTuple.dll
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\System.Xml.ReaderWriter.dll
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\System.Xml.XmlDocument.dll
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\System.Xml.XPath.dll
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\System.Xml.XPath.XDocument.dll
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\vbc.exe
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\vbc.exe.config
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\vbc.rsp
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\VBCSCompiler.exe
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\roslyn\VBCSCompiler.exe.config
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\Antlr3.Runtime.dll
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\AspNet.ScriptManager.bootstrap.dll
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\AspNet.ScriptManager.jQuery.dll
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\Microsoft.AspNet.FriendlyUrls.dll
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\Microsoft.ScriptManager.MSAjax.dll
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\Microsoft.ScriptManager.WebForms.dll
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\Microsoft.Web.Infrastructure.dll
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\Newtonsoft.Json.dll
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\System.Web.Optimization.dll
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\WebGrease.dll
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\libComunes.pdb
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\System.Web.Optimization.xml
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\Newtonsoft.Json.xml
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\Antlr3.Runtime.pdb
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\Microsoft.AspNet.FriendlyUrls.xml
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\obj\Debug\pProgramacionDistribuida_Viernes.csproj.AssemblyReference.cache
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\obj\Debug\pProgramacionDistribuida_Viernes.csproj.CoreCompileInputs.cache
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\obj\Debug\pProgramacionDistribuida_Viernes.csproj.CopyComplete
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\obj\Debug\pProgramacionDistribuida_Viernes.dll
+K:\Proyecto\Proyecto Farmacia\pProgramacionDistribuida_Viernes\obj\Debug\pProgramacionDistribuida_Viernes.pdb
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\pProgramacionDistribuida_Viernes.dll.config
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\pProgramacionDistribuida_Viernes.dll
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\pProgramacionDistribuida_Viernes.pdb
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\roslyn\csc.exe
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\roslyn\csc.exe.config
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\roslyn\csc.rsp
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\roslyn\csi.exe
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\roslyn\csi.exe.config
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\roslyn\csi.rsp
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\roslyn\System.AppContext.dll
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\roslyn\System.Console.dll
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\roslyn\System.IO.Compression.dll
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\roslyn\System.Net.Http.dll
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\roslyn\System.Net.Sockets.dll
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\roslyn\System.ValueTuple.dll
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\roslyn\System.Xml.XPath.dll
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\roslyn\vbc.exe
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\roslyn\vbc.exe.config
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\roslyn\vbc.rsp
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\roslyn\VBCSCompiler.exe
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\Antlr3.Runtime.dll
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\Newtonsoft.Json.dll
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\System.Web.Optimization.dll
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\WebGrease.dll
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\libComunes.pdb
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\System.Web.Optimization.xml
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\Newtonsoft.Json.xml
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\Antlr3.Runtime.pdb
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\obj\Debug\pProgramacionDistribuida_Viernes.csproj.AssemblyReference.cache
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\obj\Debug\pProgramacionDistribuida_Viernes.csproj.CoreCompileInputs.cache
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\obj\Debug\pProgramacionDistribuida_Viernes.csproj.CopyComplete
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\obj\Debug\pProgramacionDistribuida_Viernes.dll
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\obj\Debug\pProgramacionDistribuida_Viernes.pdb
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\System.Net.Http.Formatting.dll
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\System.Web.Http.dll
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\System.Web.Http.WebHost.dll
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\System.Net.Http.Formatting.xml
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\System.Web.Http.xml
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\System.Web.Http.WebHost.xml
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\es\System.Web.Http.resources.dll
+C:\Users\smlat\OneDrive\Escritorio\Trabajos\Distribuida\Entregable\pProgramacionDistribuida_Viernes\bin\es\System.Web.Http.WebHost.resources.dll
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\pProgramacionDistribuida_Viernes.dll.config
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\pProgramacionDistribuida_Viernes.dll
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\pProgramacionDistribuida_Viernes.pdb
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\csc.exe
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\csc.exe.config
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\csc.rsp
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\csi.exe
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\csi.exe.config
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\csi.rsp
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CodeAnalysis.dll
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CSharp.Core.targets
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.Managed.Core.targets
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.Win32.Primitives.dll
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.AppContext.dll
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Collections.Immutable.dll
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Console.dll
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Diagnostics.StackTrace.dll
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Globalization.Calendars.dll
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.IO.Compression.dll
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.IO.Compression.ZipFile.dll
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.IO.FileSystem.dll
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.IO.FileSystem.Primitives.dll
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Net.Http.dll
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Net.Sockets.dll
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Reflection.Metadata.dll
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Security.Cryptography.Encoding.dll
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Security.Cryptography.Primitives.dll
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Text.Encoding.CodePages.dll
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Threading.Tasks.Extensions.dll
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.ValueTuple.dll
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Xml.ReaderWriter.dll
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Xml.XmlDocument.dll
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Xml.XPath.dll
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Xml.XPath.XDocument.dll
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\vbc.exe
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\vbc.exe.config
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\vbc.rsp
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\VBCSCompiler.exe
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\VBCSCompiler.exe.config
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\Antlr3.Runtime.dll
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\AspNet.ScriptManager.bootstrap.dll
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\AspNet.ScriptManager.jQuery.dll
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\Microsoft.AspNet.FriendlyUrls.dll
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\Microsoft.ScriptManager.MSAjax.dll
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\Microsoft.ScriptManager.WebForms.dll
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\Microsoft.Web.Infrastructure.dll
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\Newtonsoft.Json.dll
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\System.Net.Http.Formatting.dll
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\System.Web.Http.dll
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\System.Web.Http.WebHost.dll
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\System.Web.Optimization.dll
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\WebGrease.dll
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\libComunes.pdb
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\System.Net.Http.Formatting.xml
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\System.Web.Http.xml
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\System.Web.Http.WebHost.xml
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\System.Web.Optimization.xml
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\Newtonsoft.Json.xml
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\Antlr3.Runtime.pdb
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\Microsoft.AspNet.FriendlyUrls.xml
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\es\System.Net.Http.Formatting.resources.dll
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\es\System.Web.Http.resources.dll
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\es\System.Web.Http.WebHost.resources.dll
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\obj\Debug\pProgramacionDistribuida_Viernes.csproj.AssemblyReference.cache
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\obj\Debug\pProgramacionDistribuida_Viernes.csproj.CoreCompileInputs.cache
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\obj\Debug\pProgramacionDistribuida_Viernes.csproj.CopyComplete
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\obj\Debug\pProgramacionDistribuida_Viernes.dll
+K:\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\obj\Debug\pProgramacionDistribuida_Viernes.pdb
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\pProgramacionDistribuida_Viernes.dll.config
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\pProgramacionDistribuida_Viernes.dll
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\pProgramacionDistribuida_Viernes.pdb
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\csc.exe
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\csc.exe.config
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\csc.rsp
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\csi.exe
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\csi.exe.config
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\csi.rsp
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.AppContext.dll
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Console.dll
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.IO.Compression.dll
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Net.Http.dll
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Net.Sockets.dll
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.ValueTuple.dll
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Xml.XPath.dll
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\vbc.exe
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\vbc.exe.config
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\vbc.rsp
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\VBCSCompiler.exe
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\Antlr3.Runtime.dll
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\Newtonsoft.Json.dll
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\System.Net.Http.Formatting.dll
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\System.Web.Http.dll
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\System.Web.Http.WebHost.dll
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\System.Web.Optimization.dll
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\WebGrease.dll
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\libComunes.pdb
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\System.Net.Http.Formatting.xml
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\System.Web.Http.xml
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\System.Web.Http.WebHost.xml
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\System.Web.Optimization.xml
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\Newtonsoft.Json.xml
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\Antlr3.Runtime.pdb
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\es\System.Web.Http.resources.dll
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\obj\Debug\pProgramacionDistribuida_Viernes.csproj.AssemblyReference.cache
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\obj\Debug\pProgramacionDistribuida_Viernes.csproj.CoreCompileInputs.cache
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\obj\Debug\pProgramacionDistribuida_Viernes.csproj.CopyComplete
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\obj\Debug\pProgramacionDistribuida_Viernes.dll
+C:\Users\smlat\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\obj\Debug\pProgramacionDistribuida_Viernes.pdb
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\pProgramacionDistribuida_Viernes.dll.config
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\pProgramacionDistribuida_Viernes.dll
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\pProgramacionDistribuida_Viernes.pdb
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\csc.exe
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\csc.exe.config
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\csc.rsp
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\csi.exe
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\csi.exe.config
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\csi.rsp
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Console.dll
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\vbc.exe
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\vbc.rsp
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\System.Web.Http.dll
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\System.Web.Optimization.dll
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\WebGrease.dll
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\libComunes.pdb
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\System.Web.Http.xml
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\System.Web.Optimization.xml
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\es\System.Web.Http.resources.dll
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\obj\Debug\pProgramacionDistribuida_Viernes.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\obj\Debug\pProgramacionDistribuida_Viernes.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\obj\Debug\pProgramacionDistribuida_Viernes.csproj.CopyComplete
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\obj\Debug\pProgramacionDistribuida_Viernes.dll
+C:\Users\Admin\Downloads\Proyecto alquiler vehiculos\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\obj\Debug\pProgramacionDistribuida_Viernes.pdb
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\pProgramacionDistribuida_Viernes.dll.config
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\pProgramacionDistribuida_Viernes.dll
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\pProgramacionDistribuida_Viernes.pdb
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\csc.exe
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\csc.exe.config
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\csc.rsp
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\csi.exe
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\csi.exe.config
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\csi.rsp
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.AppContext.dll
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Collections.Immutable.dll
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Console.dll
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Globalization.Calendars.dll
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.IO.Compression.dll
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.IO.FileSystem.dll
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Net.Http.dll
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Net.Sockets.dll
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Reflection.Metadata.dll
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.ValueTuple.dll
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Xml.XPath.dll
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\vbc.exe
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\vbc.exe.config
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\vbc.rsp
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\VBCSCompiler.exe
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\roslyn\VBCSCompiler.exe.config
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\Antlr3.Runtime.dll
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\AspNet.ScriptManager.jQuery.dll
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\Microsoft.Web.Infrastructure.dll
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\Newtonsoft.Json.dll
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\System.Net.Http.Formatting.dll
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\System.Web.Http.dll
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\System.Web.Http.WebHost.dll
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\System.Web.Optimization.dll
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\WebGrease.dll
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\libComunes.pdb
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\System.Net.Http.Formatting.xml
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\System.Web.Http.xml
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\System.Web.Http.WebHost.xml
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\System.Web.Optimization.xml
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\Newtonsoft.Json.xml
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\Antlr3.Runtime.pdb
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\es\System.Net.Http.Formatting.resources.dll
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\es\System.Web.Http.resources.dll
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\bin\es\System.Web.Http.WebHost.resources.dll
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\obj\Debug\pProgramacionDistribuida_Viernes.csproj.AssemblyReference.cache
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\obj\Debug\pProgramacionDistribuida_Viernes.csproj.CoreCompileInputs.cache
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\obj\Debug\pProgramacionDistribuida_Viernes.csproj.CopyComplete
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\obj\Debug\pProgramacionDistribuida_Viernes.dll
+D:\Proyecto alquiler vehiculos final\Proyecto alquiler vehiculos\pProgramacionDistribuida_Viernes\obj\Debug\pProgramacionDistribuida_Viernes.pdb

@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Menú Principal</title>
+
+    <!-- Google Font: Source Sans Pro -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
+    <link href="Estilos/all.min.css" rel="stylesheet" />
+    <!-- Theme style -->
+    <link href="Estilos/adminlte.min.css" rel="stylesheet" />
+    <link href="Estilos/dataTables.min.css" rel="stylesheet" />
+    <link href="Estilos/dataTables.bootstrap4.min.css" rel="stylesheet" />
+</head>
+<body class="hold-transition sidebar-mini">
+    <section class="content">
+        <div class="container-fluid">
+            <div class="row">
+                <!-- left column -->
+                <div class="col-md-12">
+                    <!-- general form elements -->
+                    <div class="card card-primary">
+                        <div class="card-header">
+                            <center><h3 class="card-title">Menú Principal</h3></center>
+                        </div>
+                        <!-- /.card-header -->
+                        <!-- form start -->
+                        <form id="frmMenuPrincipal">
+                            <div class="card-body">
+                                <div class="row">
+                                    <div class="col-md-3">
+                                        <input type="button" onclick="location.href='Cliente.html';" value="REGISTRO DE CLIENTE" />
+                                    </div>
+                                    <div class="col-md-3">
+                                        <input type="button" onclick="location.href='Alquiler.html';" value="REGISTRO DE ALQUILER" />
+                                    </div>
+                                    <div class="col-md-3">
+                                        <input type="button" onclick="location.href='Devolucion.html';"  value="REGISTRO DE DEVOLUCIÓN" />
+                                    </div>
+                                    <div class="col-md-3">
+                                        <input type="button" onclick="location.href='AdministracionVehiculo.html';" value="ADMINISTRACIÓN DE VEHICULOS" />
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <script src="../Scripts/jquery.min.js"></script>
+    <script src="../Scripts/bootstrap.bundle.min.js"></script>
+    <script src="../Scripts/jquery.dataTables.min.js"></script>
+    <script src="../Scripts/dataTables.bootstrap4.min.js"></script>
+    <!-- /.card -->
+</body>
+</html>
